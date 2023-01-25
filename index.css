@@ -41,9 +41,10 @@ padding: 20px;
 
 section h2 {
 margin-bottom: 10px;
+margin-left: 48%;
 }
 
-section .project,section .blog {
+section .details {
 display: flex;
 align-items: center;
 margin-bottom: 20px;
